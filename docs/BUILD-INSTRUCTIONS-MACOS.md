@@ -7,7 +7,7 @@ gLabels MacOS Build Instructions
 brew install cmake
 brew install qt@5
 
-cd <i>glabels_source_directory</i>
+cd glabels_source_directory
 mkdir build
 cd build
 
